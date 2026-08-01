@@ -1,0 +1,25 @@
+# Local preview output
+server.log
+server.err
+*.log
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*~
+
+# Unused intermediate image exports retained locally
+assets/academic-patent-*.webp
+assets/portrait-enhanced.webp
+assets/research-*.webp
+assets/work-*.webp
+assets/portfolio-p1[6-9].webp
+
+.vercel
